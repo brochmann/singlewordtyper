@@ -1,0 +1,19 @@
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15vw;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.subtitle {
+    font-size: 3vw;
+}
+
+.correct {
+    color: green;
+}
+
+.wrong {
+    color: red;
+}
